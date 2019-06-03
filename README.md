@@ -1,13 +1,16 @@
-# Omnifood
+# Omnifood Website
 
-###Introduction
+### Introduction
 ______________
 
 * Interactive single page website for sample restaurant Omnifood
 * Project created while following HTML/CSS tutorial on __
 
-###Installation 
+### Setup 
 ______________
 
-* 
-Omnifood Website Project
+* Clone repository to local storage
+```
+git clone https://github.com/mshan10/omnifood.git
+```
+* Run index.html on localhost to test
